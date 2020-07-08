@@ -14,6 +14,7 @@
 		3A169A6F24B288A1009299A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A169A6E24B288A1009299A0 /* Assets.xcassets */; };
 		3A169A7224B288A1009299A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A169A7024B288A1009299A0 /* LaunchScreen.storyboard */; };
 		3A169A7D24B288A1009299A0 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A169A7C24B288A1009299A0 /* FoodTrackerTests.swift */; };
+		3A3EF1C924B61E8500F988D2 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3EF1C824B61E8500F988D2 /* RatingControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		3A169A7824B288A1009299A0 /* FoodTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A169A7C24B288A1009299A0 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		3A169A7E24B288A1009299A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A3EF1C824B61E8500F988D2 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				3A169A6724B2889C009299A0 /* SceneDelegate.swift */,
 				3A169A6924B2889C009299A0 /* ViewController.swift */,
 				3A169A6B24B2889C009299A0 /* Main.storyboard */,
+				3A3EF1C824B61E8500F988D2 /* RatingControl.swift */,
 				3A169A6E24B288A1009299A0 /* Assets.xcassets */,
 				3A169A7024B288A1009299A0 /* LaunchScreen.storyboard */,
 				3A169A7324B288A1009299A0 /* Info.plist */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A3EF1C924B61E8500F988D2 /* RatingControl.swift in Sources */,
 				3A169A6A24B2889C009299A0 /* ViewController.swift in Sources */,
 				3A169A6624B2889C009299A0 /* AppDelegate.swift in Sources */,
 				3A169A6824B2889C009299A0 /* SceneDelegate.swift in Sources */,
