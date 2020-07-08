@@ -15,6 +15,7 @@
 		3A169A7224B288A1009299A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A169A7024B288A1009299A0 /* LaunchScreen.storyboard */; };
 		3A169A7D24B288A1009299A0 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A169A7C24B288A1009299A0 /* FoodTrackerTests.swift */; };
 		3A3EF1C924B61E8500F988D2 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3EF1C824B61E8500F988D2 /* RatingControl.swift */; };
+		3A3EF1CB24B6596200F988D2 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3EF1CA24B6596100F988D2 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		3A169A7C24B288A1009299A0 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		3A169A7E24B288A1009299A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A3EF1C824B61E8500F988D2 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		3A3EF1CA24B6596100F988D2 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				3A169A6524B2889C009299A0 /* AppDelegate.swift */,
 				3A169A6724B2889C009299A0 /* SceneDelegate.swift */,
 				3A169A6924B2889C009299A0 /* ViewController.swift */,
+				3A3EF1CA24B6596100F988D2 /* Meal.swift */,
 				3A169A6B24B2889C009299A0 /* Main.storyboard */,
 				3A3EF1C824B61E8500F988D2 /* RatingControl.swift */,
 				3A169A6E24B288A1009299A0 /* Assets.xcassets */,
@@ -203,6 +206,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A3EF1CB24B6596200F988D2 /* Meal.swift in Sources */,
 				3A3EF1C924B61E8500F988D2 /* RatingControl.swift in Sources */,
 				3A169A6A24B2889C009299A0 /* ViewController.swift in Sources */,
 				3A169A6624B2889C009299A0 /* AppDelegate.swift in Sources */,
